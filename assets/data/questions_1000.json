@@ -1,0 +1,4963 @@
+[
+  {
+    "text": "You have 13 apples, 1 are eaten. How many left?",
+    "answer": 12,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 5 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 3 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You see 5 cars. 4 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "What is 4 + 9?",
+    "answer": 13,
+    "type": "addition"
+  },
+  {
+    "text": "You have 13 apples, 4 are eaten. How many left?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 10 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 12,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 15 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 1 cats have?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "What is 9 + 9?",
+    "answer": 18,
+    "type": "addition"
+  },
+  {
+    "text": "You see 3 cars. 3 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 4 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You see 2 cars. 2 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 2 cats have?",
+    "answer": 8,
+    "type": "general"
+  },
+  {
+    "text": "Is 16 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 14 apples, 5 are eaten. How many left?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 20 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 7 hands have?",
+    "answer": 35,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 3 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 5 cars. 2 drive away. How many are still parked?",
+    "answer": 3,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 4 cats have?",
+    "answer": 16,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 11,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 4 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 12 hands have?",
+    "answer": 60,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 12 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 3 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 2 ten-dollar bills, how much money do you have?",
+    "answer": 20,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 5 cats have?",
+    "answer": 20,
+    "type": "general"
+  },
+  {
+    "text": "You see 2 cars. 2 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 3 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 2 ten-dollar bills, how much money do you have?",
+    "answer": 20,
+    "type": "general"
+  },
+  {
+    "text": "You see 3 cars. 2 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 13 apples, 2 are eaten. How many left?",
+    "answer": 11,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 10 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 14 apples, 1 are eaten. How many left?",
+    "answer": 13,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 6 hands have?",
+    "answer": 30,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 5 apples, 4 are eaten. How many left?",
+    "answer": 1,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 8 ten-dollar bills, how much money do you have?",
+    "answer": 80,
+    "type": "general"
+  },
+  {
+    "text": "What is 6 + 9?",
+    "answer": 15,
+    "type": "addition"
+  },
+  {
+    "text": "If you have 1 ten-dollar bills, how much money do you have?",
+    "answer": 10,
+    "type": "general"
+  },
+  {
+    "text": "You see 6 cars. 1 drive away. How many are still parked?",
+    "answer": 5,
+    "type": "general"
+  },
+  {
+    "text": "You see 3 cars. 2 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "What is 10 + 4?",
+    "answer": 14,
+    "type": "addition"
+  },
+  {
+    "text": "You see 2 cars. 2 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 1 hands have?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 14 apples, 5 are eaten. How many left?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 1 ten-dollar bills, how much money do you have?",
+    "answer": 10,
+    "type": "general"
+  },
+  {
+    "text": "You see 6 cars. 4 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "You have 4 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 5 cars. 4 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 10 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 3 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 12 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 10 cats have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "What is 6 + 10?",
+    "answer": 16,
+    "type": "addition"
+  },
+  {
+    "text": "What is 8 + 10?",
+    "answer": 18,
+    "type": "addition"
+  },
+  {
+    "text": "Is 7 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 4 hands have?",
+    "answer": 20,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 1 cats have?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "You have 3 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 13 apples, 2 are eaten. How many left?",
+    "answer": 11,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 12 ten-dollar bills, how much money do you have?",
+    "answer": 120,
+    "type": "general"
+  },
+  {
+    "text": "You have 7 apples, 2 are eaten. How many left?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 4 cars. 4 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "If you have 3 ten-dollar bills, how much money do you have?",
+    "answer": 30,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 1 cats have?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "You see 2 cars. 1 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "If you have 12 ten-dollar bills, how much money do you have?",
+    "answer": 120,
+    "type": "general"
+  },
+  {
+    "text": "You see 5 cars. 2 drive away. How many are still parked?",
+    "answer": 3,
+    "type": "general"
+  },
+  {
+    "text": "What is 10 + 10?",
+    "answer": 20,
+    "type": "addition"
+  },
+  {
+    "text": "Is 7 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 2 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "If you have 7 ten-dollar bills, how much money do you have?",
+    "answer": 70,
+    "type": "general"
+  },
+  {
+    "text": "What is 10 + 5?",
+    "answer": 15,
+    "type": "addition"
+  },
+  {
+    "text": "Is 17 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 2 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 4,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 3 cars. 1 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "What is 2 + 6?",
+    "answer": 8,
+    "type": "addition"
+  },
+  {
+    "text": "Is 14 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 1 cats have?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "You see 2 cars. 2 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 4 cats have?",
+    "answer": 16,
+    "type": "general"
+  },
+  {
+    "text": "You have 12 apples, 2 are eaten. How many left?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 4 cars. 2 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "You see 2 cars. 1 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You see 3 cars. 3 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You see 5 cars. 1 drive away. How many are still parked?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 2 hands have?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 6 cars. 4 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "You have 12 apples, 3 are eaten. How many left?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 5 red marbles and 3 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 2 + 7?",
+    "answer": 9,
+    "type": "addition"
+  },
+  {
+    "text": "Is 18 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 3 hands have?",
+    "answer": 15,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 3 cars. 2 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 10 cats have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 2 cats have?",
+    "answer": 8,
+    "type": "general"
+  },
+  {
+    "text": "You have 9 apples, 3 are eaten. How many left?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 6 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 11,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 5 hands have?",
+    "answer": 25,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 10 cats have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 7 ten-dollar bills, how much money do you have?",
+    "answer": 70,
+    "type": "general"
+  },
+  {
+    "text": "You have 9 apples, 4 are eaten. How many left?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 6 + 7?",
+    "answer": 13,
+    "type": "addition"
+  },
+  {
+    "text": "How many legs do 5 cats have?",
+    "answer": 20,
+    "type": "general"
+  },
+  {
+    "text": "Is 13 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "What is 3 + 4?",
+    "answer": 7,
+    "type": "addition"
+  },
+  {
+    "text": "You have 12 apples, 5 are eaten. How many left?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 1 + 6?",
+    "answer": 7,
+    "type": "addition"
+  },
+  {
+    "text": "You have 2 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 15 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 13 hands have?",
+    "answer": 65,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 2 cats have?",
+    "answer": 8,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 11,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 5 cats have?",
+    "answer": 20,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 apples, 4 are eaten. How many left?",
+    "answer": 1,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 5 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 3 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 6 + 5?",
+    "answer": 11,
+    "type": "addition"
+  },
+  {
+    "text": "You see 3 cars. 1 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "Is 8 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 1 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "If you have 6 ten-dollar bills, how much money do you have?",
+    "answer": 60,
+    "type": "general"
+  },
+  {
+    "text": "What is 4 + 4?",
+    "answer": 8,
+    "type": "addition"
+  },
+  {
+    "text": "How many legs do 8 cats have?",
+    "answer": 32,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 11 apples, 2 are eaten. How many left?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 1 hands have?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 9 cats have?",
+    "answer": 36,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 1 drive away. How many are still parked?",
+    "answer": 3,
+    "type": "general"
+  },
+  {
+    "text": "You have 11 apples, 2 are eaten. How many left?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 14 apples, 5 are eaten. How many left?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 5 cars. 2 drive away. How many are still parked?",
+    "answer": 3,
+    "type": "general"
+  },
+  {
+    "text": "You see 5 cars. 1 drive away. How many are still parked?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "You have 8 apples, 4 are eaten. How many left?",
+    "answer": 4,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 6 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 11,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 9 + 6?",
+    "answer": 15,
+    "type": "addition"
+  },
+  {
+    "text": "You have 4 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 10 + 3?",
+    "answer": 13,
+    "type": "addition"
+  },
+  {
+    "text": "You have 14 apples, 4 are eaten. How many left?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 7 + 6?",
+    "answer": 13,
+    "type": "addition"
+  },
+  {
+    "text": "What is 8 + 8?",
+    "answer": 16,
+    "type": "addition"
+  },
+  {
+    "text": "How many legs do 2 cats have?",
+    "answer": 8,
+    "type": "general"
+  },
+  {
+    "text": "What is 4 + 5?",
+    "answer": 9,
+    "type": "addition"
+  },
+  {
+    "text": "You have 8 apples, 5 are eaten. How many left?",
+    "answer": 3,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 3 + 3?",
+    "answer": 6,
+    "type": "addition"
+  },
+  {
+    "text": "You see 6 cars. 2 drive away. How many are still parked?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 3 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 7 apples, 3 are eaten. How many left?",
+    "answer": 4,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 12 apples, 1 are eaten. How many left?",
+    "answer": 11,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 4 cars. 3 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 11 apples, 2 are eaten. How many left?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 17 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 10 cats have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 10 hands have?",
+    "answer": 50,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 3 + 5?",
+    "answer": 8,
+    "type": "addition"
+  },
+  {
+    "text": "Is 9 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 5 hands have?",
+    "answer": 25,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 8 apples, 2 are eaten. How many left?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 0 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 8 cats have?",
+    "answer": 32,
+    "type": "general"
+  },
+  {
+    "text": "You see 2 cars. 2 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You see 6 cars. 1 drive away. How many are still parked?",
+    "answer": 5,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 9 hands have?",
+    "answer": 45,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 9 apples, 2 are eaten. How many left?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 7 apples, 5 are eaten. How many left?",
+    "answer": 2,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 11 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You see 5 cars. 1 drive away. How many are still parked?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 13 hands have?",
+    "answer": 65,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 11 apples, 4 are eaten. How many left?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 19 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You see 6 cars. 3 drive away. How many are still parked?",
+    "answer": 3,
+    "type": "general"
+  },
+  {
+    "text": "You have 3 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 5 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 4 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 18 ten-dollar bills, how much money do you have?",
+    "answer": 180,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 7 cats have?",
+    "answer": 28,
+    "type": "general"
+  },
+  {
+    "text": "You see 5 cars. 1 drive away. How many are still parked?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 3 cats have?",
+    "answer": 12,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 9 cats have?",
+    "answer": 36,
+    "type": "general"
+  },
+  {
+    "text": "If you have 10 ten-dollar bills, how much money do you have?",
+    "answer": 100,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 2 cats have?",
+    "answer": 8,
+    "type": "general"
+  },
+  {
+    "text": "What is 8 + 9?",
+    "answer": 17,
+    "type": "addition"
+  },
+  {
+    "text": "You see 6 cars. 2 drive away. How many are still parked?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 2 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "You see 3 cars. 2 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 9 hands have?",
+    "answer": 45,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 2 ten-dollar bills, how much money do you have?",
+    "answer": 20,
+    "type": "general"
+  },
+  {
+    "text": "You have 4 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 4 cats have?",
+    "answer": 16,
+    "type": "general"
+  },
+  {
+    "text": "You see 2 cars. 2 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "Is 4 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 12 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You see 6 cars. 1 drive away. How many are still parked?",
+    "answer": 5,
+    "type": "general"
+  },
+  {
+    "text": "You see 2 cars. 1 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 9 hands have?",
+    "answer": 45,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 8 cats have?",
+    "answer": 32,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 red marbles and 3 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 4 cars. 4 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 6 hands have?",
+    "answer": 30,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 15 ten-dollar bills, how much money do you have?",
+    "answer": 150,
+    "type": "general"
+  },
+  {
+    "text": "If you have 16 ten-dollar bills, how much money do you have?",
+    "answer": 160,
+    "type": "general"
+  },
+  {
+    "text": "What is 6 + 10?",
+    "answer": 16,
+    "type": "addition"
+  },
+  {
+    "text": "You have 6 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 11,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 5 + 6?",
+    "answer": 11,
+    "type": "addition"
+  },
+  {
+    "text": "If you have 7 ten-dollar bills, how much money do you have?",
+    "answer": 70,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 2 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "If you have 8 ten-dollar bills, how much money do you have?",
+    "answer": 80,
+    "type": "general"
+  },
+  {
+    "text": "If you have 13 ten-dollar bills, how much money do you have?",
+    "answer": 130,
+    "type": "general"
+  },
+  {
+    "text": "If you have 19 ten-dollar bills, how much money do you have?",
+    "answer": 190,
+    "type": "general"
+  },
+  {
+    "text": "You have 4 red marbles and 3 blue ones. How many marbles total?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 6 hands have?",
+    "answer": 30,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 2 cars. 1 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "If you have 17 ten-dollar bills, how much money do you have?",
+    "answer": 170,
+    "type": "general"
+  },
+  {
+    "text": "Is 14 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "What is 4 + 8?",
+    "answer": 12,
+    "type": "addition"
+  },
+  {
+    "text": "Is 7 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 9 apples, 4 are eaten. How many left?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 6 apples, 4 are eaten. How many left?",
+    "answer": 2,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 1 hands have?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 4 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "What is 6 + 9?",
+    "answer": 15,
+    "type": "addition"
+  },
+  {
+    "text": "How many fingers do 3 hands have?",
+    "answer": 15,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 3 cars. 2 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 12 apples, 5 are eaten. How many left?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 10 apples, 2 are eaten. How many left?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 3 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 3 red marbles and 3 blue ones. How many marbles total?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 20 ten-dollar bills, how much money do you have?",
+    "answer": 200,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 3 cats have?",
+    "answer": 12,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 apples, 4 are eaten. How many left?",
+    "answer": 2,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 10 apples, 4 are eaten. How many left?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 11 hands have?",
+    "answer": 55,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 18 ten-dollar bills, how much money do you have?",
+    "answer": 180,
+    "type": "general"
+  },
+  {
+    "text": "You see 6 cars. 2 drive away. How many are still parked?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "You have 4 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 6 cars. 1 drive away. How many are still parked?",
+    "answer": 5,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 2 cats have?",
+    "answer": 8,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 4 cats have?",
+    "answer": 16,
+    "type": "general"
+  },
+  {
+    "text": "Is 2 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 17 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "What is 8 + 5?",
+    "answer": 13,
+    "type": "addition"
+  },
+  {
+    "text": "If you have 10 ten-dollar bills, how much money do you have?",
+    "answer": 100,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 5 cats have?",
+    "answer": 20,
+    "type": "general"
+  },
+  {
+    "text": "If you have 4 ten-dollar bills, how much money do you have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 3 cats have?",
+    "answer": 12,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 6 cats have?",
+    "answer": 24,
+    "type": "general"
+  },
+  {
+    "text": "What is 8 + 2?",
+    "answer": 10,
+    "type": "addition"
+  },
+  {
+    "text": "How many legs do 7 cats have?",
+    "answer": 28,
+    "type": "general"
+  },
+  {
+    "text": "What is 5 + 3?",
+    "answer": 8,
+    "type": "addition"
+  },
+  {
+    "text": "How many fingers do 6 hands have?",
+    "answer": 30,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 8 apples, 1 are eaten. How many left?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 17 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 2 cats have?",
+    "answer": 8,
+    "type": "general"
+  },
+  {
+    "text": "Is 3 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 3 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 4 hands have?",
+    "answer": 20,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 14 ten-dollar bills, how much money do you have?",
+    "answer": 140,
+    "type": "general"
+  },
+  {
+    "text": "If you have 7 ten-dollar bills, how much money do you have?",
+    "answer": 70,
+    "type": "general"
+  },
+  {
+    "text": "If you have 12 ten-dollar bills, how much money do you have?",
+    "answer": 120,
+    "type": "general"
+  },
+  {
+    "text": "Is 6 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 13 hands have?",
+    "answer": 65,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 6 + 3?",
+    "answer": 9,
+    "type": "addition"
+  },
+  {
+    "text": "How many legs do 6 cats have?",
+    "answer": 24,
+    "type": "general"
+  },
+  {
+    "text": "You have 8 apples, 1 are eaten. How many left?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 4 ten-dollar bills, how much money do you have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "What is 3 + 7?",
+    "answer": 10,
+    "type": "addition"
+  },
+  {
+    "text": "Is 13 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 2 cats have?",
+    "answer": 8,
+    "type": "general"
+  },
+  {
+    "text": "If you have 13 ten-dollar bills, how much money do you have?",
+    "answer": 130,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 5 ten-dollar bills, how much money do you have?",
+    "answer": 50,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 2 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "What is 10 + 6?",
+    "answer": 16,
+    "type": "addition"
+  },
+  {
+    "text": "How many fingers do 7 hands have?",
+    "answer": 35,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 9 + 1?",
+    "answer": 10,
+    "type": "addition"
+  },
+  {
+    "text": "You have 6 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 12,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 12 ten-dollar bills, how much money do you have?",
+    "answer": 120,
+    "type": "general"
+  },
+  {
+    "text": "You have 3 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 5 apples, 2 are eaten. How many left?",
+    "answer": 3,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 5 ten-dollar bills, how much money do you have?",
+    "answer": 50,
+    "type": "general"
+  },
+  {
+    "text": "You see 5 cars. 1 drive away. How many are still parked?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "What is 4 + 3?",
+    "answer": 7,
+    "type": "addition"
+  },
+  {
+    "text": "You have 6 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 12,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 4 cars. 2 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 2 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "What is 7 + 6?",
+    "answer": 13,
+    "type": "addition"
+  },
+  {
+    "text": "You see 5 cars. 2 drive away. How many are still parked?",
+    "answer": 3,
+    "type": "general"
+  },
+  {
+    "text": "If you have 10 ten-dollar bills, how much money do you have?",
+    "answer": 100,
+    "type": "general"
+  },
+  {
+    "text": "What is 8 + 9?",
+    "answer": 17,
+    "type": "addition"
+  },
+  {
+    "text": "If you have 17 ten-dollar bills, how much money do you have?",
+    "answer": 170,
+    "type": "general"
+  },
+  {
+    "text": "You have 4 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 8 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 13 apples, 3 are eaten. How many left?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 2 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 4,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 9 + 5?",
+    "answer": 14,
+    "type": "addition"
+  },
+  {
+    "text": "What is 9 + 1?",
+    "answer": 10,
+    "type": "addition"
+  },
+  {
+    "text": "What is 9 + 8?",
+    "answer": 17,
+    "type": "addition"
+  },
+  {
+    "text": "If you have 12 ten-dollar bills, how much money do you have?",
+    "answer": 120,
+    "type": "general"
+  },
+  {
+    "text": "Is 11 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 13 apples, 1 are eaten. How many left?",
+    "answer": 12,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 11 ten-dollar bills, how much money do you have?",
+    "answer": 110,
+    "type": "general"
+  },
+  {
+    "text": "If you have 9 ten-dollar bills, how much money do you have?",
+    "answer": 90,
+    "type": "general"
+  },
+  {
+    "text": "If you have 16 ten-dollar bills, how much money do you have?",
+    "answer": 160,
+    "type": "general"
+  },
+  {
+    "text": "You have 12 apples, 1 are eaten. How many left?",
+    "answer": 11,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 6 cars. 1 drive away. How many are still parked?",
+    "answer": 5,
+    "type": "general"
+  },
+  {
+    "text": "If you have 1 ten-dollar bills, how much money do you have?",
+    "answer": 10,
+    "type": "general"
+  },
+  {
+    "text": "You have 3 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 7 cats have?",
+    "answer": 28,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 2 hands have?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 10 ten-dollar bills, how much money do you have?",
+    "answer": 100,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 6 apples, 1 are eaten. How many left?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 5 apples, 3 are eaten. How many left?",
+    "answer": 2,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 9 cats have?",
+    "answer": 36,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 15 hands have?",
+    "answer": 75,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 6 apples, 5 are eaten. How many left?",
+    "answer": 1,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 10 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 17 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "Is 11 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 10 hands have?",
+    "answer": 50,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 11 hands have?",
+    "answer": 55,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 2 cars. 1 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 8 apples, 3 are eaten. How many left?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 3 hands have?",
+    "answer": 15,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 10 hands have?",
+    "answer": 50,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 3 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 6 ten-dollar bills, how much money do you have?",
+    "answer": 60,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 10 + 3?",
+    "answer": 13,
+    "type": "addition"
+  },
+  {
+    "text": "Is 11 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 apples, 4 are eaten. How many left?",
+    "answer": 1,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 3 ten-dollar bills, how much money do you have?",
+    "answer": 30,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 7 cats have?",
+    "answer": 28,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 4 cats have?",
+    "answer": 16,
+    "type": "general"
+  },
+  {
+    "text": "What is 9 + 1?",
+    "answer": 10,
+    "type": "addition"
+  },
+  {
+    "text": "If you have 5 ten-dollar bills, how much money do you have?",
+    "answer": 50,
+    "type": "general"
+  },
+  {
+    "text": "You have 10 apples, 1 are eaten. How many left?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 14 apples, 2 are eaten. How many left?",
+    "answer": 12,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 4 ten-dollar bills, how much money do you have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 3 hands have?",
+    "answer": 15,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 15 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 2 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 8 hands have?",
+    "answer": 40,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 14 ten-dollar bills, how much money do you have?",
+    "answer": 140,
+    "type": "general"
+  },
+  {
+    "text": "What is 9 + 4?",
+    "answer": 13,
+    "type": "addition"
+  },
+  {
+    "text": "Is 12 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 2 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 10 hands have?",
+    "answer": 50,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 4 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 5 ten-dollar bills, how much money do you have?",
+    "answer": 50,
+    "type": "general"
+  },
+  {
+    "text": "You have 9 apples, 5 are eaten. How many left?",
+    "answer": 4,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 14 ten-dollar bills, how much money do you have?",
+    "answer": 140,
+    "type": "general"
+  },
+  {
+    "text": "Is 13 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 10 cats have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "What is 10 + 9?",
+    "answer": 19,
+    "type": "addition"
+  },
+  {
+    "text": "What is 7 + 9?",
+    "answer": 16,
+    "type": "addition"
+  },
+  {
+    "text": "Is 0 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You see 2 cars. 2 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 6 hands have?",
+    "answer": 30,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 2 ten-dollar bills, how much money do you have?",
+    "answer": 20,
+    "type": "general"
+  },
+  {
+    "text": "Is 12 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You see 5 cars. 3 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "What is 1 + 9?",
+    "answer": 10,
+    "type": "addition"
+  },
+  {
+    "text": "What is 7 + 10?",
+    "answer": 17,
+    "type": "addition"
+  },
+  {
+    "text": "You have 5 apples, 5 are eaten. How many left?",
+    "answer": 0,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 13 apples, 5 are eaten. How many left?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 5 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 7 apples, 2 are eaten. How many left?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 14 hands have?",
+    "answer": 70,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 3 hands have?",
+    "answer": 15,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 12 apples, 4 are eaten. How many left?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 5 hands have?",
+    "answer": 25,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 18 ten-dollar bills, how much money do you have?",
+    "answer": 180,
+    "type": "general"
+  },
+  {
+    "text": "You have 4 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 2 + 10?",
+    "answer": 12,
+    "type": "addition"
+  },
+  {
+    "text": "If you have 17 ten-dollar bills, how much money do you have?",
+    "answer": 170,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 4 cats have?",
+    "answer": 16,
+    "type": "general"
+  },
+  {
+    "text": "Is 15 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 7 apples, 2 are eaten. How many left?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 12 apples, 3 are eaten. How many left?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 11 ten-dollar bills, how much money do you have?",
+    "answer": 110,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 2 cats have?",
+    "answer": 8,
+    "type": "general"
+  },
+  {
+    "text": "If you have 4 ten-dollar bills, how much money do you have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "You see 3 cars. 1 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 4 cats have?",
+    "answer": 16,
+    "type": "general"
+  },
+  {
+    "text": "What is 2 + 7?",
+    "answer": 9,
+    "type": "addition"
+  },
+  {
+    "text": "If you have 14 ten-dollar bills, how much money do you have?",
+    "answer": 140,
+    "type": "general"
+  },
+  {
+    "text": "If you have 20 ten-dollar bills, how much money do you have?",
+    "answer": 200,
+    "type": "general"
+  },
+  {
+    "text": "If you have 10 ten-dollar bills, how much money do you have?",
+    "answer": 100,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 10 hands have?",
+    "answer": 50,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 16 ten-dollar bills, how much money do you have?",
+    "answer": 160,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 apples, 4 are eaten. How many left?",
+    "answer": 2,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 2 hands have?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 3 cars. 2 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 4 cats have?",
+    "answer": 16,
+    "type": "general"
+  },
+  {
+    "text": "Is 10 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 4 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 13 apples, 3 are eaten. How many left?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 2 cars. 2 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "What is 2 + 9?",
+    "answer": 11,
+    "type": "addition"
+  },
+  {
+    "text": "You see 3 cars. 1 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "You have 3 red marbles and 3 blue ones. How many marbles total?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 9 + 2?",
+    "answer": 11,
+    "type": "addition"
+  },
+  {
+    "text": "You see 2 cars. 2 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 11,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 3 hands have?",
+    "answer": 15,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 10 ten-dollar bills, how much money do you have?",
+    "answer": 100,
+    "type": "general"
+  },
+  {
+    "text": "What is 8 + 3?",
+    "answer": 11,
+    "type": "addition"
+  },
+  {
+    "text": "Is 18 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 3 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 14 hands have?",
+    "answer": 70,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 4 ten-dollar bills, how much money do you have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "If you have 20 ten-dollar bills, how much money do you have?",
+    "answer": 200,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 5 cats have?",
+    "answer": 20,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 apples, 2 are eaten. How many left?",
+    "answer": 3,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 7 hands have?",
+    "answer": 35,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 6 cats have?",
+    "answer": 24,
+    "type": "general"
+  },
+  {
+    "text": "You see 2 cars. 1 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 9 apples, 5 are eaten. How many left?",
+    "answer": 4,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 14 hands have?",
+    "answer": 70,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 2 cars. 2 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 3 hands have?",
+    "answer": 15,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 3 hands have?",
+    "answer": 15,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 5 cars. 4 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 15 hands have?",
+    "answer": 75,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 8 ten-dollar bills, how much money do you have?",
+    "answer": 80,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 7 hands have?",
+    "answer": 35,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 5 cars. 4 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 1 cats have?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 3 cats have?",
+    "answer": 12,
+    "type": "general"
+  },
+  {
+    "text": "Is 2 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 4 red marbles and 3 blue ones. How many marbles total?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 3 hands have?",
+    "answer": 15,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 10 cats have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 3 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 11 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 14 apples, 3 are eaten. How many left?",
+    "answer": 11,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 3 cars. 2 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 3 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 5 hands have?",
+    "answer": 25,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 4 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 14 hands have?",
+    "answer": 70,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 2 cars. 2 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 2 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 4,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 7 hands have?",
+    "answer": 35,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 4 cats have?",
+    "answer": 16,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 3 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 6 hands have?",
+    "answer": 30,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 12 ten-dollar bills, how much money do you have?",
+    "answer": 120,
+    "type": "general"
+  },
+  {
+    "text": "What is 9 + 9?",
+    "answer": 18,
+    "type": "addition"
+  },
+  {
+    "text": "You have 10 apples, 1 are eaten. How many left?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 7 ten-dollar bills, how much money do you have?",
+    "answer": 70,
+    "type": "general"
+  },
+  {
+    "text": "If you have 20 ten-dollar bills, how much money do you have?",
+    "answer": 200,
+    "type": "general"
+  },
+  {
+    "text": "If you have 10 ten-dollar bills, how much money do you have?",
+    "answer": 100,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 6 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 11,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 3 ten-dollar bills, how much money do you have?",
+    "answer": 30,
+    "type": "general"
+  },
+  {
+    "text": "If you have 8 ten-dollar bills, how much money do you have?",
+    "answer": 80,
+    "type": "general"
+  },
+  {
+    "text": "If you have 7 ten-dollar bills, how much money do you have?",
+    "answer": 70,
+    "type": "general"
+  },
+  {
+    "text": "You see 3 cars. 2 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "What is 1 + 3?",
+    "answer": 4,
+    "type": "addition"
+  },
+  {
+    "text": "You have 12 apples, 5 are eaten. How many left?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 3 + 2?",
+    "answer": 5,
+    "type": "addition"
+  },
+  {
+    "text": "What is 5 + 8?",
+    "answer": 13,
+    "type": "addition"
+  },
+  {
+    "text": "You see 3 cars. 1 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "You see 2 cars. 2 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 2 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 1 + 5?",
+    "answer": 6,
+    "type": "addition"
+  },
+  {
+    "text": "How many legs do 6 cats have?",
+    "answer": 24,
+    "type": "general"
+  },
+  {
+    "text": "What is 3 + 6?",
+    "answer": 9,
+    "type": "addition"
+  },
+  {
+    "text": "Is 12 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 6 cars. 3 drive away. How many are still parked?",
+    "answer": 3,
+    "type": "general"
+  },
+  {
+    "text": "If you have 16 ten-dollar bills, how much money do you have?",
+    "answer": 160,
+    "type": "general"
+  },
+  {
+    "text": "If you have 14 ten-dollar bills, how much money do you have?",
+    "answer": 140,
+    "type": "general"
+  },
+  {
+    "text": "Is 3 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 10 + 5?",
+    "answer": 15,
+    "type": "addition"
+  },
+  {
+    "text": "You have 4 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 6 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 11,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 14 apples, 4 are eaten. How many left?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 5 apples, 5 are eaten. How many left?",
+    "answer": 0,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 14 apples, 2 are eaten. How many left?",
+    "answer": 12,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 5 apples, 1 are eaten. How many left?",
+    "answer": 4,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 7 hands have?",
+    "answer": 35,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 6 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 13 apples, 4 are eaten. How many left?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 6 cars. 3 drive away. How many are still parked?",
+    "answer": 3,
+    "type": "general"
+  },
+  {
+    "text": "You see 2 cars. 1 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "If you have 11 ten-dollar bills, how much money do you have?",
+    "answer": 110,
+    "type": "general"
+  },
+  {
+    "text": "What is 10 + 1?",
+    "answer": 11,
+    "type": "addition"
+  },
+  {
+    "text": "Is 19 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 3 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 3 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 2 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 3 ten-dollar bills, how much money do you have?",
+    "answer": 30,
+    "type": "general"
+  },
+  {
+    "text": "Is 13 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 13 apples, 5 are eaten. How many left?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 1 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You see 2 cars. 1 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 3 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 15 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 7 apples, 5 are eaten. How many left?",
+    "answer": 2,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 5 cars. 4 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "What is 2 + 5?",
+    "answer": 7,
+    "type": "addition"
+  },
+  {
+    "text": "Is 6 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 3 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 7 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You see 3 cars. 2 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You see 6 cars. 4 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "Is 6 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "If you have 12 ten-dollar bills, how much money do you have?",
+    "answer": 120,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 1 cats have?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 4 hands have?",
+    "answer": 20,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 4 cars. 4 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 6 cats have?",
+    "answer": 24,
+    "type": "general"
+  },
+  {
+    "text": "What is 10 + 2?",
+    "answer": 12,
+    "type": "addition"
+  },
+  {
+    "text": "If you have 12 ten-dollar bills, how much money do you have?",
+    "answer": 120,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 2 cats have?",
+    "answer": 8,
+    "type": "general"
+  },
+  {
+    "text": "You see 5 cars. 2 drive away. How many are still parked?",
+    "answer": 3,
+    "type": "general"
+  },
+  {
+    "text": "Is 9 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 13 apples, 4 are eaten. How many left?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 1 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 10 hands have?",
+    "answer": 50,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 9 ten-dollar bills, how much money do you have?",
+    "answer": 90,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 6 cars. 3 drive away. How many are still parked?",
+    "answer": 3,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 4 hands have?",
+    "answer": 20,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 4 hands have?",
+    "answer": 20,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 10 cats have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "What is 6 + 3?",
+    "answer": 9,
+    "type": "addition"
+  },
+  {
+    "text": "You have 2 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 15 ten-dollar bills, how much money do you have?",
+    "answer": 150,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 2 cats have?",
+    "answer": 8,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 2 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "You have 8 apples, 3 are eaten. How many left?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 19 ten-dollar bills, how much money do you have?",
+    "answer": 190,
+    "type": "general"
+  },
+  {
+    "text": "If you have 7 ten-dollar bills, how much money do you have?",
+    "answer": 70,
+    "type": "general"
+  },
+  {
+    "text": "Is 15 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 14 apples, 1 are eaten. How many left?",
+    "answer": 13,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 1 + 3?",
+    "answer": 4,
+    "type": "addition"
+  },
+  {
+    "text": "How many fingers do 14 hands have?",
+    "answer": 70,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 5 cars. 3 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "Is 8 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "What is 1 + 4?",
+    "answer": 5,
+    "type": "addition"
+  },
+  {
+    "text": "How many fingers do 6 hands have?",
+    "answer": 30,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 8 cats have?",
+    "answer": 32,
+    "type": "general"
+  },
+  {
+    "text": "You have 9 apples, 3 are eaten. How many left?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 10 hands have?",
+    "answer": 50,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 7 apples, 3 are eaten. How many left?",
+    "answer": 4,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 2 + 4?",
+    "answer": 6,
+    "type": "addition"
+  },
+  {
+    "text": "What is 1 + 4?",
+    "answer": 5,
+    "type": "addition"
+  },
+  {
+    "text": "You have 7 apples, 5 are eaten. How many left?",
+    "answer": 2,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 12 apples, 5 are eaten. How many left?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 0 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "If you have 16 ten-dollar bills, how much money do you have?",
+    "answer": 160,
+    "type": "general"
+  },
+  {
+    "text": "You have 7 apples, 3 are eaten. How many left?",
+    "answer": 4,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 7 cats have?",
+    "answer": 28,
+    "type": "general"
+  },
+  {
+    "text": "Is 3 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 13 apples, 5 are eaten. How many left?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 2 + 2?",
+    "answer": 4,
+    "type": "addition"
+  },
+  {
+    "text": "What is 10 + 8?",
+    "answer": 18,
+    "type": "addition"
+  },
+  {
+    "text": "What is 10 + 9?",
+    "answer": 19,
+    "type": "addition"
+  },
+  {
+    "text": "How many legs do 3 cats have?",
+    "answer": 12,
+    "type": "general"
+  },
+  {
+    "text": "If you have 5 ten-dollar bills, how much money do you have?",
+    "answer": 50,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 12 hands have?",
+    "answer": 60,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 18 ten-dollar bills, how much money do you have?",
+    "answer": 180,
+    "type": "general"
+  },
+  {
+    "text": "What is 5 + 7?",
+    "answer": 12,
+    "type": "addition"
+  },
+  {
+    "text": "You have 2 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 7 + 4?",
+    "answer": 11,
+    "type": "addition"
+  },
+  {
+    "text": "What is 10 + 3?",
+    "answer": 13,
+    "type": "addition"
+  },
+  {
+    "text": "You see 2 cars. 1 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 5 hands have?",
+    "answer": 25,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 5 cars. 4 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You see 3 cars. 2 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 1 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 11,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 7 cats have?",
+    "answer": 28,
+    "type": "general"
+  },
+  {
+    "text": "What is 8 + 7?",
+    "answer": 15,
+    "type": "addition"
+  },
+  {
+    "text": "Is 9 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 9 cats have?",
+    "answer": 36,
+    "type": "general"
+  },
+  {
+    "text": "You have 4 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 2 cars. 1 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 4 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You see 2 cars. 2 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 3 hands have?",
+    "answer": 15,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 9 ten-dollar bills, how much money do you have?",
+    "answer": 90,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 11 hands have?",
+    "answer": 55,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 1 cats have?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 11,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 6 + 7?",
+    "answer": 13,
+    "type": "addition"
+  },
+  {
+    "text": "What is 2 + 5?",
+    "answer": 7,
+    "type": "addition"
+  },
+  {
+    "text": "What is 1 + 8?",
+    "answer": 9,
+    "type": "addition"
+  },
+  {
+    "text": "How many legs do 10 cats have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "If you have 10 ten-dollar bills, how much money do you have?",
+    "answer": 100,
+    "type": "general"
+  },
+  {
+    "text": "Is 4 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 1 cats have?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "You have 9 apples, 4 are eaten. How many left?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 17 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 4 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 13 hands have?",
+    "answer": 65,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 1 ten-dollar bills, how much money do you have?",
+    "answer": 10,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 11 hands have?",
+    "answer": 55,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 7 ten-dollar bills, how much money do you have?",
+    "answer": 70,
+    "type": "general"
+  },
+  {
+    "text": "Is 2 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "What is 10 + 1?",
+    "answer": 11,
+    "type": "addition"
+  },
+  {
+    "text": "What is 5 + 8?",
+    "answer": 13,
+    "type": "addition"
+  },
+  {
+    "text": "What is 9 + 5?",
+    "answer": 14,
+    "type": "addition"
+  },
+  {
+    "text": "Is 0 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 10 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 8 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "What is 2 + 7?",
+    "answer": 9,
+    "type": "addition"
+  },
+  {
+    "text": "What is 2 + 5?",
+    "answer": 7,
+    "type": "addition"
+  },
+  {
+    "text": "How many legs do 8 cats have?",
+    "answer": 32,
+    "type": "general"
+  },
+  {
+    "text": "You have 3 red marbles and 3 blue ones. How many marbles total?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 8 ten-dollar bills, how much money do you have?",
+    "answer": 80,
+    "type": "general"
+  },
+  {
+    "text": "Is 16 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 12 apples, 1 are eaten. How many left?",
+    "answer": 11,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 3 + 2?",
+    "answer": 5,
+    "type": "addition"
+  },
+  {
+    "text": "Is 4 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 18 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 4 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 3 cars. 2 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "If you have 6 ten-dollar bills, how much money do you have?",
+    "answer": 60,
+    "type": "general"
+  },
+  {
+    "text": "You see 5 cars. 1 drive away. How many are still parked?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 3 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 6 hands have?",
+    "answer": 30,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 6 red marbles and 3 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 3 cats have?",
+    "answer": 12,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 9 cats have?",
+    "answer": 36,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 10 hands have?",
+    "answer": 50,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 6 cars. 1 drive away. How many are still parked?",
+    "answer": 5,
+    "type": "general"
+  },
+  {
+    "text": "You have 4 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 17 ten-dollar bills, how much money do you have?",
+    "answer": 170,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 4 cats have?",
+    "answer": 16,
+    "type": "general"
+  },
+  {
+    "text": "Is 11 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 12 apples, 3 are eaten. How many left?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 4 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 5 ten-dollar bills, how much money do you have?",
+    "answer": 50,
+    "type": "general"
+  },
+  {
+    "text": "You see 3 cars. 2 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "What is 8 + 5?",
+    "answer": 13,
+    "type": "addition"
+  },
+  {
+    "text": "How many legs do 7 cats have?",
+    "answer": 28,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 apples, 5 are eaten. How many left?",
+    "answer": 0,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 1 + 10?",
+    "answer": 11,
+    "type": "addition"
+  },
+  {
+    "text": "What is 2 + 6?",
+    "answer": 8,
+    "type": "addition"
+  },
+  {
+    "text": "You see 6 cars. 2 drive away. How many are still parked?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "You have 3 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 1 ten-dollar bills, how much money do you have?",
+    "answer": 10,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 1 drive away. How many are still parked?",
+    "answer": 3,
+    "type": "general"
+  },
+  {
+    "text": "If you have 14 ten-dollar bills, how much money do you have?",
+    "answer": 140,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 5 hands have?",
+    "answer": 25,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 10 apples, 2 are eaten. How many left?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 5 apples, 2 are eaten. How many left?",
+    "answer": 3,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 6 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 3 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "Is 10 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "If you have 4 ten-dollar bills, how much money do you have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "You have 3 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 6 ten-dollar bills, how much money do you have?",
+    "answer": 60,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 3 hands have?",
+    "answer": 15,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 14 hands have?",
+    "answer": 70,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 1 + 10?",
+    "answer": 11,
+    "type": "addition"
+  },
+  {
+    "text": "How many fingers do 7 hands have?",
+    "answer": 35,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 6 cars. 4 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "What is 10 + 10?",
+    "answer": 20,
+    "type": "addition"
+  },
+  {
+    "text": "How many fingers do 8 hands have?",
+    "answer": 40,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 3 hands have?",
+    "answer": 15,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 16 ten-dollar bills, how much money do you have?",
+    "answer": 160,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 2 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "You see 5 cars. 4 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "What is 1 + 6?",
+    "answer": 7,
+    "type": "addition"
+  },
+  {
+    "text": "How many legs do 8 cats have?",
+    "answer": 32,
+    "type": "general"
+  },
+  {
+    "text": "You see 2 cars. 1 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "What is 5 + 9?",
+    "answer": 14,
+    "type": "addition"
+  },
+  {
+    "text": "You see 5 cars. 4 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 red marbles and 3 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 14 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 5 + 7?",
+    "answer": 12,
+    "type": "addition"
+  },
+  {
+    "text": "How many fingers do 1 hands have?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 13 hands have?",
+    "answer": 65,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 5 cars. 4 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "What is 3 + 7?",
+    "answer": 10,
+    "type": "addition"
+  },
+  {
+    "text": "What is 7 + 9?",
+    "answer": 16,
+    "type": "addition"
+  },
+  {
+    "text": "You have 8 apples, 2 are eaten. How many left?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 14 hands have?",
+    "answer": 70,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 2 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 12 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 8 ten-dollar bills, how much money do you have?",
+    "answer": 80,
+    "type": "general"
+  },
+  {
+    "text": "What is 1 + 2?",
+    "answer": 3,
+    "type": "addition"
+  },
+  {
+    "text": "How many legs do 9 cats have?",
+    "answer": 36,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 apples, 2 are eaten. How many left?",
+    "answer": 3,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 6 apples, 4 are eaten. How many left?",
+    "answer": 2,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 2 + 9?",
+    "answer": 11,
+    "type": "addition"
+  },
+  {
+    "text": "Is 5 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "If you have 15 ten-dollar bills, how much money do you have?",
+    "answer": 150,
+    "type": "general"
+  },
+  {
+    "text": "What is 9 + 2?",
+    "answer": 11,
+    "type": "addition"
+  },
+  {
+    "text": "You have 2 red marbles and 3 blue ones. How many marbles total?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 5 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 5 cats have?",
+    "answer": 20,
+    "type": "general"
+  },
+  {
+    "text": "Is 14 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 12 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 10 apples, 2 are eaten. How many left?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 6 ten-dollar bills, how much money do you have?",
+    "answer": 60,
+    "type": "general"
+  },
+  {
+    "text": "You have 8 apples, 2 are eaten. How many left?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 5 red marbles and 3 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 8 + 8?",
+    "answer": 16,
+    "type": "addition"
+  },
+  {
+    "text": "Is 3 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 8 apples, 2 are eaten. How many left?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 10 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "If you have 4 ten-dollar bills, how much money do you have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 12,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 6 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 9 cats have?",
+    "answer": 36,
+    "type": "general"
+  },
+  {
+    "text": "Is 13 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 4 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 9 + 7?",
+    "answer": 16,
+    "type": "addition"
+  },
+  {
+    "text": "If you have 5 ten-dollar bills, how much money do you have?",
+    "answer": 50,
+    "type": "general"
+  },
+  {
+    "text": "What is 10 + 2?",
+    "answer": 12,
+    "type": "addition"
+  },
+  {
+    "text": "If you have 18 ten-dollar bills, how much money do you have?",
+    "answer": 180,
+    "type": "general"
+  },
+  {
+    "text": "Is 7 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "If you have 2 ten-dollar bills, how much money do you have?",
+    "answer": 20,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 3 cats have?",
+    "answer": 12,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 5 hands have?",
+    "answer": 25,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 4 cars. 3 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 3 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "If you have 4 ten-dollar bills, how much money do you have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "Is 6 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 2 hands have?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 3 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 8 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 6 cats have?",
+    "answer": 24,
+    "type": "general"
+  },
+  {
+    "text": "What is 5 + 10?",
+    "answer": 15,
+    "type": "addition"
+  },
+  {
+    "text": "You see 4 cars. 3 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 2 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 6 apples, 2 are eaten. How many left?",
+    "answer": 4,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 2 cars. 2 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 3 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 3 cats have?",
+    "answer": 12,
+    "type": "general"
+  },
+  {
+    "text": "What is 2 + 9?",
+    "answer": 11,
+    "type": "addition"
+  },
+  {
+    "text": "If you have 18 ten-dollar bills, how much money do you have?",
+    "answer": 180,
+    "type": "general"
+  },
+  {
+    "text": "You have 2 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 6 cats have?",
+    "answer": 24,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 9 hands have?",
+    "answer": 45,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 8 apples, 4 are eaten. How many left?",
+    "answer": 4,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 9 ten-dollar bills, how much money do you have?",
+    "answer": 90,
+    "type": "general"
+  },
+  {
+    "text": "If you have 16 ten-dollar bills, how much money do you have?",
+    "answer": 160,
+    "type": "general"
+  },
+  {
+    "text": "If you have 2 ten-dollar bills, how much money do you have?",
+    "answer": 20,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 3 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 3 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 9 apples, 1 are eaten. How many left?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 8 hands have?",
+    "answer": 40,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 17 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 10 hands have?",
+    "answer": 50,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 3 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "Is 15 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "If you have 10 ten-dollar bills, how much money do you have?",
+    "answer": 100,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 13 hands have?",
+    "answer": 65,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 4 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 18 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 9 cats have?",
+    "answer": 36,
+    "type": "general"
+  },
+  {
+    "text": "What is 10 + 2?",
+    "answer": 12,
+    "type": "addition"
+  },
+  {
+    "text": "You have 2 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 19 ten-dollar bills, how much money do you have?",
+    "answer": 190,
+    "type": "general"
+  },
+  {
+    "text": "You see 3 cars. 3 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 9 cats have?",
+    "answer": 36,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 2 cats have?",
+    "answer": 8,
+    "type": "general"
+  },
+  {
+    "text": "You have 13 apples, 1 are eaten. How many left?",
+    "answer": 12,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 7 hands have?",
+    "answer": 35,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 11 ten-dollar bills, how much money do you have?",
+    "answer": 110,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 3 hands have?",
+    "answer": 15,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 8 + 8?",
+    "answer": 16,
+    "type": "addition"
+  },
+  {
+    "text": "You have 9 apples, 2 are eaten. How many left?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 1 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "What is 7 + 10?",
+    "answer": 17,
+    "type": "addition"
+  },
+  {
+    "text": "Is 4 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 9 hands have?",
+    "answer": 45,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 4 cars. 4 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 9 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 12,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 5 cats have?",
+    "answer": 20,
+    "type": "general"
+  },
+  {
+    "text": "Is 1 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "Is 4 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You see 5 cars. 4 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 3 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "What is 8 + 5?",
+    "answer": 13,
+    "type": "addition"
+  },
+  {
+    "text": "If you have 18 ten-dollar bills, how much money do you have?",
+    "answer": 180,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 1 drive away. How many are still parked?",
+    "answer": 3,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 5 cats have?",
+    "answer": 20,
+    "type": "general"
+  },
+  {
+    "text": "If you have 19 ten-dollar bills, how much money do you have?",
+    "answer": 190,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 red marbles and 3 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 2 red marbles and 3 blue ones. How many marbles total?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 5 cars. 3 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 12,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 0 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 1 hands have?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 12 apples, 3 are eaten. How many left?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 1 cats have?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 5 hands have?",
+    "answer": 25,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 1 cats have?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 10 cats have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 1 drive away. How many are still parked?",
+    "answer": 3,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 2 cats have?",
+    "answer": 8,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 12,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 9 apples, 1 are eaten. How many left?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 7 cats have?",
+    "answer": 28,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 4 cats have?",
+    "answer": 16,
+    "type": "general"
+  },
+  {
+    "text": "What is 5 + 5?",
+    "answer": 10,
+    "type": "addition"
+  },
+  {
+    "text": "If you have 6 ten-dollar bills, how much money do you have?",
+    "answer": 60,
+    "type": "general"
+  },
+  {
+    "text": "If you have 2 ten-dollar bills, how much money do you have?",
+    "answer": 20,
+    "type": "general"
+  },
+  {
+    "text": "You see 5 cars. 2 drive away. How many are still parked?",
+    "answer": 3,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 7 cats have?",
+    "answer": 28,
+    "type": "general"
+  },
+  {
+    "text": "What is 4 + 3?",
+    "answer": 7,
+    "type": "addition"
+  },
+  {
+    "text": "How many fingers do 4 hands have?",
+    "answer": 20,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 11 apples, 3 are eaten. How many left?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 4 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 3 hands have?",
+    "answer": 15,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 14 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "If you have 6 ten-dollar bills, how much money do you have?",
+    "answer": 60,
+    "type": "general"
+  },
+  {
+    "text": "What is 4 + 7?",
+    "answer": 11,
+    "type": "addition"
+  },
+  {
+    "text": "How many legs do 6 cats have?",
+    "answer": 24,
+    "type": "general"
+  },
+  {
+    "text": "You have 10 apples, 3 are eaten. How many left?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 5 cars. 3 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 12 hands have?",
+    "answer": 60,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 2 cars. 1 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "What is 9 + 2?",
+    "answer": 11,
+    "type": "addition"
+  },
+  {
+    "text": "You see 3 cars. 3 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 2 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 6 + 9?",
+    "answer": 15,
+    "type": "addition"
+  },
+  {
+    "text": "How many fingers do 12 hands have?",
+    "answer": 60,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 4 ten-dollar bills, how much money do you have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "You have 8 apples, 5 are eaten. How many left?",
+    "answer": 3,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 2 + 4?",
+    "answer": 6,
+    "type": "addition"
+  },
+  {
+    "text": "What is 3 + 2?",
+    "answer": 5,
+    "type": "addition"
+  },
+  {
+    "text": "If you have 17 ten-dollar bills, how much money do you have?",
+    "answer": 170,
+    "type": "general"
+  },
+  {
+    "text": "You have 8 apples, 4 are eaten. How many left?",
+    "answer": 4,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 2 cars. 1 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You see 4 cars. 3 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 9 hands have?",
+    "answer": 45,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 13 hands have?",
+    "answer": 65,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 1 cats have?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "What is 6 + 1?",
+    "answer": 7,
+    "type": "addition"
+  },
+  {
+    "text": "How many fingers do 9 hands have?",
+    "answer": 45,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 3 hands have?",
+    "answer": 15,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 8 ten-dollar bills, how much money do you have?",
+    "answer": 80,
+    "type": "general"
+  },
+  {
+    "text": "Is 14 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "If you have 8 ten-dollar bills, how much money do you have?",
+    "answer": 80,
+    "type": "general"
+  },
+  {
+    "text": "What is 4 + 6?",
+    "answer": 10,
+    "type": "addition"
+  },
+  {
+    "text": "You have 4 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 2 cars. 2 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 apples, 1 are eaten. How many left?",
+    "answer": 4,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 9 apples, 3 are eaten. How many left?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 10 hands have?",
+    "answer": 50,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 4 hands have?",
+    "answer": 20,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 5 hands have?",
+    "answer": 25,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 6 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 12,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 6 ten-dollar bills, how much money do you have?",
+    "answer": 60,
+    "type": "general"
+  },
+  {
+    "text": "Is 9 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 3 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 6 cars. 2 drive away. How many are still parked?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 5 hands have?",
+    "answer": 25,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 6 hands have?",
+    "answer": 30,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 9 apples, 2 are eaten. How many left?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 19 ten-dollar bills, how much money do you have?",
+    "answer": 190,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 3 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 11 hands have?",
+    "answer": 55,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 5 hands have?",
+    "answer": 25,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 2 cars. 1 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "What is 9 + 10?",
+    "answer": 19,
+    "type": "addition"
+  },
+  {
+    "text": "You have 5 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 11,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 1 + 2?",
+    "answer": 3,
+    "type": "addition"
+  },
+  {
+    "text": "How many legs do 7 cats have?",
+    "answer": 28,
+    "type": "general"
+  },
+  {
+    "text": "Is 3 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You see 2 cars. 2 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "Is 19 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 apples, 1 are eaten. How many left?",
+    "answer": 4,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 18 ten-dollar bills, how much money do you have?",
+    "answer": 180,
+    "type": "general"
+  },
+  {
+    "text": "Is 1 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 3 cats have?",
+    "answer": 12,
+    "type": "general"
+  },
+  {
+    "text": "What is 1 + 5?",
+    "answer": 6,
+    "type": "addition"
+  },
+  {
+    "text": "How many legs do 10 cats have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "You see 2 cars. 1 drive away. How many are still parked?",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 3 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "What is 5 + 2?",
+    "answer": 7,
+    "type": "addition"
+  },
+  {
+    "text": "If you have 20 ten-dollar bills, how much money do you have?",
+    "answer": 200,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 red marbles and 5 blue ones. How many marbles total?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 10 hands have?",
+    "answer": 50,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 4 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 3 hands have?",
+    "answer": 15,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 5 + 7?",
+    "answer": 12,
+    "type": "addition"
+  },
+  {
+    "text": "How many legs do 1 cats have?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "Is 12 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You see 3 cars. 1 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 9 cats have?",
+    "answer": 36,
+    "type": "general"
+  },
+  {
+    "text": "Is 0 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 2 + 8?",
+    "answer": 10,
+    "type": "addition"
+  },
+  {
+    "text": "You have 6 apples, 3 are eaten. How many left?",
+    "answer": 3,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 5 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 9,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 17 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 11,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 4 + 1?",
+    "answer": 5,
+    "type": "addition"
+  },
+  {
+    "text": "If you have 15 ten-dollar bills, how much money do you have?",
+    "answer": 150,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 5 cats have?",
+    "answer": 20,
+    "type": "general"
+  },
+  {
+    "text": "You have 13 apples, 1 are eaten. How many left?",
+    "answer": 12,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 1 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 3 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "If you have 13 ten-dollar bills, how much money do you have?",
+    "answer": 130,
+    "type": "general"
+  },
+  {
+    "text": "You see 5 cars. 1 drive away. How many are still parked?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "Is 18 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 5 apples, 1 are eaten. How many left?",
+    "answer": 4,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 6 cars. 2 drive away. How many are still parked?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 9 hands have?",
+    "answer": 45,
+    "type": "fingers"
+  },
+  {
+    "text": "How many legs do 1 cats have?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "You have 8 apples, 3 are eaten. How many left?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 4 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 4 red marbles and 6 blue ones. How many marbles total?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 20 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 7 hands have?",
+    "answer": 35,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 13 apples, 3 are eaten. How many left?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 4 cars. 2 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "If you have 11 ten-dollar bills, how much money do you have?",
+    "answer": 110,
+    "type": "general"
+  },
+  {
+    "text": "If you have 10 ten-dollar bills, how much money do you have?",
+    "answer": 100,
+    "type": "general"
+  },
+  {
+    "text": "Is 14 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 8 hands have?",
+    "answer": 40,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 8 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 12 apples, 5 are eaten. How many left?",
+    "answer": 7,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 4 cars. 2 drive away. How many are still parked?",
+    "answer": 2,
+    "type": "general"
+  },
+  {
+    "text": "You have 4 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 6,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 2 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "Is 18 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "How many legs do 8 cats have?",
+    "answer": 32,
+    "type": "general"
+  },
+  {
+    "text": "Is 2 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You have 6 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 10,
+    "type": "fingers"
+  },
+  {
+    "text": "You see 6 cars. 2 drive away. How many are still parked?",
+    "answer": 4,
+    "type": "general"
+  },
+  {
+    "text": "You see 2 cars. 2 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You have 3 red marbles and 2 blue ones. How many marbles total?",
+    "answer": 5,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 15 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "You see 5 cars. 2 drive away. How many are still parked?",
+    "answer": 3,
+    "type": "general"
+  },
+  {
+    "text": "How many fingers do 14 hands have?",
+    "answer": 70,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 15 an even number? (1 = Yes, 0 = No)",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "If you have 4 ten-dollar bills, how much money do you have?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "You have 8 apples, 5 are eaten. How many left?",
+    "answer": 3,
+    "type": "fingers"
+  },
+  {
+    "text": "How many fingers do 3 hands have?",
+    "answer": 15,
+    "type": "fingers"
+  },
+  {
+    "text": "Is 18 an even number? (1 = Yes, 0 = No)",
+    "answer": 1,
+    "type": "general"
+  },
+  {
+    "text": "You see 3 cars. 3 drive away. How many are still parked?",
+    "answer": 0,
+    "type": "general"
+  },
+  {
+    "text": "If you have 16 ten-dollar bills, how much money do you have?",
+    "answer": 160,
+    "type": "general"
+  },
+  {
+    "text": "You have 4 red marbles and 4 blue ones. How many marbles total?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "You have 12 apples, 4 are eaten. How many left?",
+    "answer": 8,
+    "type": "fingers"
+  },
+  {
+    "text": "What is 14 + 3?",
+    "answer": 17,
+    "type": "addition"
+  },
+  {
+    "text": "What is 7 * 3?",
+    "answer": 21,
+    "type": "multiplication"
+  },
+  {
+    "text": "What is 18 - 6?",
+    "answer": 12,
+    "type": "general"
+  },
+  {
+    "text": "What is 6 + 9?",
+    "answer": 15,
+    "type": "addition"
+  },
+  {
+    "text": "What is 20 / 5?",
+    "answer": 4,
+    "type": "division"
+  },
+  {
+    "text": "What is 2 * 8?",
+    "answer": 16,
+    "type": "multiplication"
+  },
+  {
+    "text": "What is 11 + 7?",
+    "answer": 18,
+    "type": "addition"
+  },
+  {
+    "text": "What is 16 - 9?",
+    "answer": 7,
+    "type": "general"
+  },
+  {
+    "text": "What is 5 * 4?",
+    "answer": 20,
+    "type": "multiplication"
+  },
+  {
+    "text": "What is 15 / 3?",
+    "answer": 5,
+    "type": "division"
+  },
+  {
+    "text": "What comes next? 3, 6, 9, ?",
+    "answer": 12,
+    "type": "general"
+  },
+  {
+    "text": "What comes next? 2, 4, 6, 8, ?",
+    "answer": 10,
+    "type": "general"
+  },
+  {
+    "text": "What is 17 - 8?",
+    "answer": 9,
+    "type": "general"
+  },
+  {
+    "text": "What is 12 + 4?",
+    "answer": 16,
+    "type": "addition"
+  },
+  {
+    "text": "What is 3 * 6?",
+    "answer": 18,
+    "type": "multiplication"
+  },
+  {
+    "text": "What is 21 / 7?",
+    "answer": 3,
+    "type": "division"
+  },
+  {
+    "text": "What comes next? 1, 2, 4, 8, ?",
+    "answer": 16,
+    "type": "general"
+  },
+  {
+    "text": "What comes next? 10, 20, 30, ?",
+    "answer": 40,
+    "type": "general"
+  },
+  {
+    "text": "What is 10 + 15?",
+    "answer": 25,
+    "type": "addition"
+  },
+  {
+    "text": "What is 13 - 5?",
+    "answer": 8,
+    "type": "general"
+  },
+  {
+    "text": "What is 9 * 2?",
+    "answer": 18,
+    "type": "multiplication"
+  },
+  {
+    "text": "What is 28 / 7?",
+    "answer": 4,
+    "type": "division"
+  },
+  {
+    "text": "What comes next? 5, 10, 15, ?",
+    "answer": 20,
+    "type": "general"
+  },
+  {
+    "text": "What is 7 + 6?",
+    "answer": 13,
+    "type": "addition"
+  },
+  {
+    "text": "What is 12 - 3?",
+    "answer": 9,
+    "type": "general"
+  },
+  {
+    "text": "What is 4 * 5?",
+    "answer": 20,
+    "type": "multiplication"
+  },
+  {
+    "text": "What is 36 / 6?",
+    "answer": 6,
+    "type": "division"
+  },
+  {
+    "text": "What comes next? 50, 45, 40, ?",
+    "answer": 35,
+    "type": "general"
+  },
+  {
+    "text": "What comes next? 3, 6, 12, 24, ?",
+    "answer": 48,
+    "type": "general"
+  },
+  {
+    "text": "What is 6 + 11?",
+    "answer": 17,
+    "type": "addition"
+  },
+  { "text": "What is 15 - 7?",  "answer": 8,  "type": "subtraction" },
+  { "text": "What is 23 - 9?",  "answer": 14, "type": "subtraction" },
+  { "text": "What is 30 - 12?", "answer": 18, "type": "subtraction" },
+  { "text": "What is 40 - 17?", "answer": 23, "type": "subtraction" },
+  { "text": "What is 27 - 11?", "answer": 16, "type": "subtraction" },
+  { "text": "What is 22 - 8?",  "answer": 14, "type": "subtraction" },
+  { "text": "What is 50 - 25?", "answer": 25, "type": "subtraction" },
+  { "text": "What is 19 - 4?",  "answer": 15, "type": "subtraction" },
+  { "text": "What is 35 - 18?", "answer": 17, "type": "subtraction" },
+  { "text": "What is 14 - 6?",  "answer": 8,  "type": "subtraction" },
+
+  { "text": "What is 60 - 45?", "answer": 15, "type": "subtraction" },
+  { "text": "What is 100 - 37?", "answer": 63, "type": "subtraction" },
+  { "text": "What is 81 - 32?",  "answer": 49, "type": "subtraction" },
+  { "text": "What is 44 - 19?",  "answer": 25, "type": "subtraction" },
+  { "text": "What is 73 - 27?",  "answer": 46, "type": "subtraction" },
+  { "text": "What is 96 - 48?",  "answer": 48, "type": "subtraction" },
+  { "text": "What is 55 - 20?",  "answer": 35, "type": "subtraction" },
+  { "text": "What is 68 - 49?",  "answer": 19, "type": "subtraction" },
+  { "text": "What is 90 - 29?",  "answer": 61, "type": "subtraction" },
+  { "text": "What is 13 - 6?",   "answer": 7,  "type": "subtraction" }
+]
