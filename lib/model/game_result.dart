@@ -6,12 +6,14 @@ class GameResult {
   final String name;
   final int score;
   final double accuracy;
+  final String mode; // ✅ أضفنا المود
 
   GameResult({
     this.id,
     required this.name,
     required this.score,
     required this.accuracy,
+    required this.mode, // ✅ هنا كمان
   });
 
   Map<String, dynamic> toMap() {
@@ -20,6 +22,7 @@ class GameResult {
       'name': name,
       'score': score,
       'accuracy': accuracy,
+      'mode': mode, // ✅ أضفنا المود
     };
   }
 
@@ -29,6 +32,7 @@ class GameResult {
       name: map['name'],
       score: map['score'],
       accuracy: map['accuracy'],
+      mode: map['mode'], // ✅ هنا كمان
     );
   }
 }
@@ -50,13 +54,14 @@ class DatabaseHelper {
       version: _dbVersion,
       onCreate: (db, version) async {
         await db.execute('''
-          CREATE TABLE $_tableName (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            name TEXT NOT NULL,
-            score INTEGER NOT NULL,
-            accuracy REAL NOT NULL
-          )
-        ''');
+  CREATE TABLE $_tableName (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL,
+    score INTEGER NOT NULL,
+    accuracy REAL NOT NULL,
+    mode TEXT NOT NULL
+  )
+''');
       },
     );
     return _database!;

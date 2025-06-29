@@ -49,8 +49,18 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
                             fontWeight: FontWeight.bold, fontSize: 16)),
                     title: Text(result.name,
                         style: const TextStyle(fontWeight: FontWeight.bold)),
-                    subtitle: Text(
-                        "Score: ${result.score} | Accuracy: ${result.accuracy.toStringAsFixed(1)}%"),
+                    subtitle: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(
+                          "Score: ${result.score} | Accuracy: ${result.accuracy.toStringAsFixed(1)}%",
+                        ),
+                        Text(
+                          "Mode: ${result.mode}",
+                          style: const TextStyle(color: Colors.grey),
+                        ),
+                      ],
+                    ),
                   ),
                 );
               },

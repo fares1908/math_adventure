@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
+import 'package:math_adventure/screens/summary_screen.dart';
 
 import '../model/game_result.dart';
 import '../model/question.dart';
@@ -14,6 +15,7 @@ import 'settings_page.dart';
 
 class GameScreen extends StatefulWidget {
   final String playerName;
+  final String gameMode;
 
   /// أنواع الأسئلة التى يسمح بها هذا الجيم
   final List<String> allowedTypes;
@@ -31,7 +33,8 @@ class GameScreen extends StatefulWidget {
         'general',
       ],
       this.totalQuestions = 10,
-      super.key});
+      super.key,
+      required this.gameMode});
 
   @override
   State<GameScreen> createState() => _GameScreenState();
@@ -176,91 +179,39 @@ class _GameScreenState extends State<GameScreen> with TickerProviderStateMixin {
     }
 
     if (showSummary) {
-      double accuracy = (correctAnswers / questions.length) * 100;
+      return SummaryScreen(
+        score: score,
+        correctAnswers: correctAnswers,
+        totalQuestions: questions.length,
+        streak: streak,
+        totalTimeSeconds: totalTimeSeconds,
+        remainingSeconds: remainingSeconds,
+        nameController: nameController,
+        onSave: (name) async {
+          if (name.isEmpty) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              const SnackBar(
+                content: Text("Please enter your name before saving."),
+                backgroundColor: Colors.red,
+              ),
+            );
+            Navigator.pushReplacement(context,
+                MaterialPageRoute(builder: (context) => const HomeScreen()));
+            return;
+          }
 
-      return Scaffold(
-        body: AnimatedBackgroundWrapper(
-            vsync: this,
-            child: Center(
-                child: Padding(
-                    padding: const EdgeInsets.all(20),
-                    child: Column(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children: [
-                          const Text("✨ AMAZING! MATH MASTER! ✨",
-                              style: TextStyle(
-                                  fontWeight: FontWeight.bold,
-                                  fontSize: 24,
-                                  color: Colors.orange)),
-                          const SizedBox(height: 16),
-                          const Text("🔹 Mode: Puzzle Mode"),
-                          Text("🔹 Final Score: $score"),
-                          Text("🔹 Questions Answered: ${currentIndex + 1}"),
-                          Text("🔹 Correct Answers: $correctAnswers"),
-                          Text("🔹 Accuracy: ${accuracy.toStringAsFixed(1)}%"),
-                          Text("🔹 Best Streak: $streak"),
-                          Text(
-                              "🔹 Total Time: ${formatTime(totalTimeSeconds - remainingSeconds)}"),
-                          const SizedBox(height: 24),
-                          Text("✨ NEW HIGH SCORE! ✨",
-                              style: TextStyle(
-                                  fontWeight: FontWeight.bold,
-                                  fontSize: 18,
-                                  color: Colors.yellow[800])),
-                          const SizedBox(height: 12),
-                          TextField(
-                            controller: nameController,
-                            textAlign: TextAlign.center,
-                            decoration: const InputDecoration(
-                                hintText: "Enter your name...",
-                                border: OutlineInputBorder()),
-                          ),
-                          const SizedBox(height: 12),
-                          ElevatedButton(
-                            onPressed: () async {
-                              final name = nameController.text.trim();
-                              if (name.isEmpty) {
-                                ScaffoldMessenger.of(context).showSnackBar(
-                                  const SnackBar(
-                                    content: Text(
-                                        "Please enter your name before saving."),
-                                    backgroundColor: Colors.red,
-                                  ),
-                                );
-                                return;
-                              }
+          await DatabaseHelper.insertResult(GameResult(
+            mode: widget.gameMode,
+            name: name,
+            score: score,
+            accuracy: (correctAnswers / questions.length) * 100,
+          ));
 
-                              await DatabaseHelper.insertResult(GameResult(
-                                name: name,
-                                score: score,
-                                accuracy: accuracy,
-                              ));
-                              Navigator.pushReplacement(
-                                context,
-                                MaterialPageRoute(
-                                    builder: (context) => const HomeScreen()),
-                              );
-                            },
-                            style: ElevatedButton.styleFrom(
-                                backgroundColor: Colors.green),
-                            child: const Text("Save Score"),
-                          ),
-                          TextButton(
-                            onPressed: () {
-                              Navigator.pushReplacement(
-                                  context,
-                                  MaterialPageRoute(
-                                      builder: (context) =>
-                                          const HomeScreen()));
-                            },
-                            child: const Text(
-                              'Skip',
-                              textAlign: TextAlign.center,
-                              style: TextStyle(
-                                  decoration: TextDecoration.underline),
-                            ),
-                          ),
-                        ])))),
+          Navigator.pushReplacement(
+            context,
+            MaterialPageRoute(builder: (context) => const HomeScreen()),
+          );
+        },
       );
     }
 
@@ -268,7 +219,7 @@ class _GameScreenState extends State<GameScreen> with TickerProviderStateMixin {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Math Adventure for ${widget.playerName}'),
+        title: Text('Mode: ${widget.gameMode}'),
         backgroundColor: Colors.purple,
       ),
       body: AnimatedBackgroundWrapper(

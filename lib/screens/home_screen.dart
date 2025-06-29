@@ -117,7 +117,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
                           context,
                           MaterialPageRoute(
                             builder: (_) => const GameScreen(
-                              playerName: '',
+                              playerName: '', gameMode: '',
                               // allowedTypes: [
                               //   'addition',
                               //   'subtraction',

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'animated_background_wrapper.dart';
-import 'game_screen.dart';
+import 'mode_selection_screen.dart';
 
 class EnterNameScreen extends StatefulWidget {
   const EnterNameScreen({super.key});
@@ -19,7 +19,9 @@ class _EnterNameScreenState extends State<EnterNameScreen>
     if (name.isNotEmpty) {
       Navigator.push(
         context,
-        MaterialPageRoute(builder: (_) => GameScreen(playerName: name)),
+        MaterialPageRoute(
+          builder: (_) => ModeSelectionScreen(playerName: name),
+        ),
       );
     }
   }
@@ -33,7 +35,9 @@ class _EnterNameScreenState extends State<EnterNameScreen>
   void handleGuest() {
     Navigator.push(
       context,
-      MaterialPageRoute(builder: (_) => const GameScreen(playerName: "")),
+      MaterialPageRoute(
+        builder: (_) => const ModeSelectionScreen(playerName: "Guest"),
+      ),
     );
   }
 

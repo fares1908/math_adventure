@@ -18,7 +18,7 @@ class FingerCounterBox extends StatelessWidget {
       width: w,
       height: h,
       margin: const EdgeInsets.only(right: 4), // مسافة بسيطة من اليمين
-      padding: const EdgeInsets.all(8),
+      padding: const EdgeInsets.all(3),
       decoration: BoxDecoration(
         color: Colors.white.withOpacity(0.15), // خلفية خفيفة مثل الـ Abacus
         borderRadius: BorderRadius.circular(12),
@@ -43,8 +43,9 @@ class FingerCounterCard extends StatelessWidget {
     final overflow = realTens - leftFingers; // عشرات لا يمكن تمثيلها
 
     Widget framed(String asset, Color border) => Container(
-          height: 70,
-          width: 90,
+          height: 90,
+          width: 100,
+          padding: const EdgeInsets.all(4),
           decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(12),
             border: Border.all(color: border, width: 4),
@@ -52,6 +53,8 @@ class FingerCounterCard extends StatelessWidget {
           child: ClipRRect(
             borderRadius: BorderRadius.circular(8),
             child: Image.asset(asset,
+                height: 50,
+                width: 50,
                 fit: BoxFit.cover,
                 errorBuilder: (_, __, ___) => const Icon(Icons.close)),
           ),

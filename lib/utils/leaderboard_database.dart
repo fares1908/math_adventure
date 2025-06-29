@@ -22,6 +22,7 @@ class LeaderboardDatabase {
           CREATE TABLE results (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             name TEXT,
+            mode TEXT,
             score INTEGER,
             accuracy REAL,
             mode TEXT
