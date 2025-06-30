@@ -68,14 +68,34 @@ class _GameScreenState extends State<GameScreen> with TickerProviderStateMixin {
   }
 
   Future<void> loadSettingsAndQuestions() async {
-    final timeLimit = await SettingsStorage.loadTimeLimit();
-    final questionCount = await SettingsStorage.loadQuestionCount();
-    final operations = await SettingsStorage.loadOperations();
+    late List<String> allowedTypes;
+    late int questionCount;
+    late int timeLimit;
 
-    final allowedTypes = mapOperatorsToTypes(operations);
+    switch (widget.gameMode) {
+      case "Practice Mode":
+        allowedTypes = widget.allowedTypes;
+        questionCount = widget.totalQuestions;
+        totalTimeSeconds = 9999; // بدون وقت فعلي
+        remainingSeconds = totalTimeSeconds;
+        break;
 
-    totalTimeSeconds = timeLimit * 60;
-    remainingSeconds = totalTimeSeconds;
+      case "Time Attack":
+        allowedTypes = widget.allowedTypes;
+        questionCount = 9999; // عدد مفتوح من الأسئلة
+        totalTimeSeconds = 120; // وقت محدد (مثلاً دقيقتين)
+        remainingSeconds = totalTimeSeconds;
+        break;
+
+      case "Classic":
+      default:
+        timeLimit = await SettingsStorage.loadTimeLimit();
+        questionCount = await SettingsStorage.loadQuestionCount();
+        final operations = await SettingsStorage.loadOperations();
+        allowedTypes = mapOperatorsToTypes(operations);
+        totalTimeSeconds = timeLimit * 60;
+        remainingSeconds = totalTimeSeconds;
+    }
 
     final loadedQuestions = await loadQuestionsFromAsset(
       allowedTypes: allowedTypes,
@@ -235,15 +255,17 @@ class _GameScreenState extends State<GameScreen> with TickerProviderStateMixin {
                     Text("Score: $score"),
                     Text(
                         " Accuracy: ${((correctAnswers / (currentIndex + 1)) * 100).toStringAsFixed(1)}%"),
-                    Row(
-                      children: [
-                        const Icon(Icons.access_time, size: 18),
-                        const SizedBox(width: 4),
-                        Text(formatTime(remainingSeconds),
-                            style:
-                                const TextStyle(fontWeight: FontWeight.bold)),
-                      ],
-                    ),
+                    if (widget.gameMode != "Practice Mode")
+                      Row(
+                        children: [
+                          const Icon(Icons.access_time, size: 18),
+                          const SizedBox(width: 4),
+                          Text(
+                            formatTime(remainingSeconds),
+                            style: const TextStyle(fontWeight: FontWeight.bold),
+                          ),
+                        ],
+                      ),
                     Text(" Streak: $streak"),
                   ],
                 ),
