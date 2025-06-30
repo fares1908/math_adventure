@@ -74,14 +74,23 @@ class _GameScreenState extends State<GameScreen> with TickerProviderStateMixin {
 
     switch (widget.gameMode) {
       case "Practice Mode":
-        allowedTypes = widget.allowedTypes;
+        final operations = await SettingsStorage.loadOperations();
+        allowedTypes = mapOperatorsToTypes(operations);
         questionCount = widget.totalQuestions;
         totalTimeSeconds = 9999; // بدون وقت فعلي
         remainingSeconds = totalTimeSeconds;
         break;
-
+      case "Puzzle Mode":
+        timeLimit = await SettingsStorage.loadTimeLimit();
+        questionCount = await SettingsStorage.loadQuestionCount();
+        final operations = await SettingsStorage.loadOperations();
+        allowedTypes = ['general'];
+        totalTimeSeconds = timeLimit * 60;
+        remainingSeconds = totalTimeSeconds;
+        break;
       case "Time Attack":
-        allowedTypes = widget.allowedTypes;
+        final operations = await SettingsStorage.loadOperations();
+        allowedTypes = mapOperatorsToTypes(operations);
         questionCount = 9999; // عدد مفتوح من الأسئلة
         totalTimeSeconds = 120; // وقت محدد (مثلاً دقيقتين)
         remainingSeconds = totalTimeSeconds;
