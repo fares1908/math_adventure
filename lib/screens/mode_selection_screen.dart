@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import 'custom_mode_settings_screen.dart';
 import 'game_screen.dart';
 
 class ModeSelectionScreen extends StatelessWidget {
@@ -7,15 +8,24 @@ class ModeSelectionScreen extends StatelessWidget {
   const ModeSelectionScreen({super.key, required this.playerName});
 
   void startGame(BuildContext context, String mode) {
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-        builder: (_) => GameScreen(
-          playerName: playerName,
-          gameMode: mode,
+    if (mode == "Custom Mode") {
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (_) => CustomModeSettingsScreen(playerName: playerName),
         ),
-      ),
-    );
+      );
+    } else {
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (_) => GameScreen(
+            playerName: playerName,
+            gameMode: mode,
+          ),
+        ),
+      );
+    }
   }
 
   Widget buildModeButton(

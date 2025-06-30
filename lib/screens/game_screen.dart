@@ -19,6 +19,7 @@ class GameScreen extends StatefulWidget {
 
   /// أنواع الأسئلة التى يسمح بها هذا الجيم
   final List<String> allowedTypes;
+  final int? timeLimitSeconds;
 
   /// عدد الأسئلة فى الجيم
   final int totalQuestions;
@@ -34,6 +35,7 @@ class GameScreen extends StatefulWidget {
       ],
       this.totalQuestions = 10,
       super.key,
+      this.timeLimitSeconds,
       required this.gameMode});
 
   @override
@@ -88,6 +90,16 @@ class _GameScreenState extends State<GameScreen> with TickerProviderStateMixin {
         totalTimeSeconds = timeLimit * 60;
         remainingSeconds = totalTimeSeconds;
         break;
+      case "Custom Mode":
+        timeLimit = await SettingsStorage.loadTimeLimit();
+
+        allowedTypes = widget.allowedTypes;
+        questionCount = widget.totalQuestions;
+        totalTimeSeconds =
+            (widget.timeLimitSeconds ?? await SettingsStorage.loadTimeLimit()) *
+                60;
+        remainingSeconds = totalTimeSeconds;
+        break;
       case "Time Attack":
         final operations = await SettingsStorage.loadOperations();
         allowedTypes = mapOperatorsToTypes(operations);
@@ -98,7 +110,8 @@ class _GameScreenState extends State<GameScreen> with TickerProviderStateMixin {
 
       case "Classic":
       default:
-        timeLimit = await SettingsStorage.loadTimeLimit();
+        timeLimit =
+            widget.timeLimitSeconds ?? await SettingsStorage.loadTimeLimit();
         questionCount = await SettingsStorage.loadQuestionCount();
         final operations = await SettingsStorage.loadOperations();
         allowedTypes = mapOperatorsToTypes(operations);
